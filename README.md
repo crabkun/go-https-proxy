@@ -4,7 +4,7 @@ go-https-proxy is a powerful and minimal http(s) proxy written in Go,only a few 
 
 Usage
 ------------------
-    Default port is 10800,you can change it at code.
+    Default port is 8080
 
 Memo
 -----------
